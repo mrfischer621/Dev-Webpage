@@ -2307,7 +2307,7 @@ input, select, textarea {
 
 	label {
 		display: block;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -2419,7 +2419,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: "Montserrat", sans-serif;
+				font-family: 'Font Awesome 5 Free';
 				font-weight: 900;
 			}
 
@@ -2560,7 +2560,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: "Montserrat", sans-serif;
+			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
 		}
 
@@ -2577,7 +2577,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: "Montserrat", sans-serif;
+			font-family: 'Font Awesome 5 Brands';
 		}
 
 /* Image */
@@ -4509,7 +4509,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: "Montserrat", sans-serif;
+			font-family: 'Font Awesome 5 Free';
 			font-weight: 900;
 		}
 
@@ -4627,7 +4627,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: "Montserrat", sans-serif;
+				font-family: 'Font Awesome 5 Free';
 				font-weight: 900;
 			}
 
