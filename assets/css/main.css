@@ -3402,7 +3402,9 @@ input, select, textarea {
 				transform: translateY(2rem);
 				opacity: 0;
 				visibility: hidden;
+				width: absolute;
 			}
+
 
 		#intro.hidden {
 			pointer-events: none;
@@ -3425,7 +3427,9 @@ input, select, textarea {
 				transform: translateY(0);
 				opacity: 1;
 				visibility: visible;
+				width: absolute;
 			}
+
 
 		body.is-preload #intro {
 			-moz-transform: translateY(2rem);
@@ -3557,10 +3561,10 @@ input, select, textarea {
 			-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -ms-transform 0.5s ease, visibility 0.5s;
 			transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
 			pointer-events: auto;
-			border-style: solid;
+			border-style: none;
 			border-color: #ffffff;
 			border-width: 5px !important;
-			font-family: Verdana, sans-serif;
+			font-family: Montserrat;
 			font-size: 2.25rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3568,6 +3572,10 @@ input, select, textarea {
 			padding: 1rem 1.75rem;
 			text-transform: uppercase;
 			visibility: visible;
+			max-width: 30%;
+			height: auto;
+			margin-left: auto;
+  			margin-right: auto;
 		}
 
 			#header .logo:hover {
