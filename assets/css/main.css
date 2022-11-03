@@ -142,7 +142,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: Montserrat;
+		font-family: "Montserrat", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 2;
@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: Verdana, sans-serif;
+		font-family: "Montserrat", sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -239,7 +239,7 @@ input, select, textarea {
 
 	code {
 		border: solid 2px;
-		font-family: Verdana, sans-serif;
+		font-family: "Montserrat", sans-serif;
 		font-size: 0.9rem;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.65rem;
@@ -247,7 +247,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: Verdana, sans-serif;
+		font-family: "Montserrat", sans-serif;
 		font-size: 0.9rem;
 		margin: 0 0 2rem 0;
 	}
@@ -2072,7 +2072,7 @@ input, select, textarea {
 		border-radius: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-family: Verdana, sans-serif;
+		font-family: "Montserrat", sans-serif;
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -2307,7 +2307,7 @@ input, select, textarea {
 
 	label {
 		display: block;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Montserrat", sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -2401,7 +2401,7 @@ input, select, textarea {
 			display: inline-block;
 			font-size: 1rem;
 			letter-spacing: 0;
-			font-family: Verdana, sans-serif;
+			font-family: "Montserrat", sans-serif;
 			text-transform: none;
 			font-weight: 300;
 			padding-left: 2.8rem;
@@ -3017,7 +3017,7 @@ input, select, textarea {
 		}
 
 		table th {
-			font-family: Verdana, sans-serif;
+			font-family: "Montserrat", sans-serif;
 			font-size: 0.8rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3117,7 +3117,7 @@ input, select, textarea {
 			transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
 			border: solid 2px;
 			display: inline-block;
-			font-family: Verdana, sans-serif;
+			font-family: "Montserrat", sans-serif;
 			font-size: 0.8rem;
 			font-weight: 900;
 			height: 3rem;
@@ -3145,7 +3145,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: Verdana, sans-serif;
+				font-family: "Montserrat", sans-serif;
 				font-weight: 900;
 			}
 
@@ -3564,7 +3564,7 @@ input, select, textarea {
 			border-style: none;
 			border-color: #ffffff;
 			border-width: 5px !important;
-			font-family: Montserrat;
+			font-family: "Montserrat", sans-serif;
 			font-size: 2.25rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3693,7 +3693,7 @@ input, select, textarea {
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
-			font-family: Verdana, sans-serif;
+			font-family: "Montserrat", sans-serif;
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			list-style: none;
@@ -3789,7 +3789,7 @@ input, select, textarea {
 			}
 
 			#main > .post header.major > h1, #main > .post header.major h2 {
-				font-size: 4rem;
+				font-size: 3rem;
 				line-height: 1.1;
 				margin: 0 0 2rem 0;
 			}
@@ -4389,7 +4389,7 @@ input, select, textarea {
 		position: relative;
 		color: rgba(255, 255, 255, 0.25);
 		cursor: default;
-		font-family: Verdana, sans-serif;
+		font-family: "Montserrats", sans-serif;
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4499,7 +4499,7 @@ input, select, textarea {
 		right: 0.75rem;
 		border: 0;
 		color: #ffffff;
-		font-family: Verdana, sans-serif;
+		font-family: "Montserrat", sans-serif;
 		font-size: 0.9rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4591,7 +4591,7 @@ input, select, textarea {
 				#navPanel .links li a {
 					border-bottom: 0;
 					display: block;
-					font-family: Verdana, sans-serif;
+					font-family: "Montserrat", sans-serif;
 					font-size: 0.9rem;
 					font-size: 0.9rem;
 					font-weight: 900;
