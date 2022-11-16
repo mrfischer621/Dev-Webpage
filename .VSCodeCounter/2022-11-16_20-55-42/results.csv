@@ -1,0 +1,20 @@
+"filename", "language", "HTML", "JavaScript", "XML", "CSS", "PHP", "comment", "blank", "total"
+"c:\Users\User\Dev Webpage\glint-master\css\base.css", "CSS", 0, 0, 0, 684, 0, 105, 139, 928
+"c:\Users\User\Dev Webpage\glint-master\css\font-awesome\css\font-awesome.css", "CSS", 0, 0, 0, 2327, 0, 10, 1, 2338
+"c:\Users\User\Dev Webpage\glint-master\css\font-awesome\css\font-awesome.min.css", "CSS", 0, 0, 0, 1, 0, 3, 1, 5
+"c:\Users\User\Dev Webpage\glint-master\css\font-awesome\fonts\fontawesome-webfont.svg", "XML", 0, 0, 2671, 0, 0, 0, 1, 2672
+"c:\Users\User\Dev Webpage\glint-master\css\fonts.css", "CSS", 0, 0, 0, 78, 0, 11, 17, 106
+"c:\Users\User\Dev Webpage\glint-master\css\main.css", "CSS", 0, 0, 0, 2813, 0, 295, 495, 3603
+"c:\Users\User\Dev Webpage\glint-master\css\micons\fonts\icomoon.svg", "XML", 0, 0, 241, 0, 0, 0, 0, 241
+"c:\Users\User\Dev Webpage\glint-master\css\micons\micons.css", "CSS", 0, 0, 0, 714, 0, 2, 5, 721
+"c:\Users\User\Dev Webpage\glint-master\css\vendor.css", "CSS", 0, 0, 0, 1375, 0, 126, 417, 1918
+"c:\Users\User\Dev Webpage\glint-master\images\photoswipe\default-skin.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\User\Dev Webpage\glint-master\inc\sendEmail.php", "PHP", 0, 0, 0, 0, 41, 8, 20, 69
+"c:\Users\User\Dev Webpage\glint-master\index.html", "HTML", 601, 0, 0, 0, 0, 39, 173, 813
+"c:\Users\User\Dev Webpage\glint-master\js\jquery-3.2.1.min.js", "JavaScript", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\User\Dev Webpage\glint-master\js\main.js", "JavaScript", 0, 296, 0, 0, 0, 67, 109, 472
+"c:\Users\User\Dev Webpage\glint-master\js\modernizr.js", "JavaScript", 0, 1, 0, 0, 0, 2, 0, 3
+"c:\Users\User\Dev Webpage\glint-master\js\pace.min.js", "JavaScript", 0, 1, 0, 0, 0, 1, 0, 2
+"c:\Users\User\Dev Webpage\glint-master\js\plugins.js", "JavaScript", 0, 42, 0, 0, 0, 92, 26, 160
+"c:\Users\User\Dev Webpage\glint-master\styles.html", "HTML", 547, 0, 0, 0, 0, 33, 195, 775
+"Total", "-", 1148, 343, 2913, 7992, 41, 795, 1600, 14832
