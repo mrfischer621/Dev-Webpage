@@ -2957,7 +2957,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-contact {
     background-color: #111111;
-    background-image: url("/glint-master/images/mountain-bg.jpg");
+    background-image: url("/images/mountain-bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 12rem;
