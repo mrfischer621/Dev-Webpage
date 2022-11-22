@@ -1,5 +1,5 @@
 /* ===================================================================
- * Glint - Main JS
+ * Main JS
  *
  * ------------------------------------------------------------------- */
 
@@ -376,10 +376,10 @@
     var clAOS = function() {
         
         AOS.init( {
-            offset: 200,
-            duration: 600,
+            offset: 10,
+            duration: 300,
             easing: 'ease-in-sine',
-            delay: 300,
+            delay: 10,
             once: true,
             disable: 'mobile'
         });
@@ -427,7 +427,7 @@
         var pxShow  = 500,         // height on which the button will show
         fadeInTime  = 400,         // how slow/fast you want the button to show
         fadeOutTime = 400,         // how slow/fast you want the button to hide
-        scrollSpeed = 300,         // how slow/fast you want the button to scroll to top. can be a value, 'slow', 'normal' or 'fast'
+        scrollSpeed = 900,         // how slow/fast you want the button to scroll to top. can be a value, 'slow', 'normal' or 'fast'
         goTopButton = $(".go-top")
         
         // Show or hide the sticky footer button
