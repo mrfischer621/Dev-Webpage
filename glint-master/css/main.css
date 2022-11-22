@@ -417,6 +417,23 @@ img.pull-left {
     margin: 1.5rem 3rem 0 0;
 }
 
+/* ------------------------------------------------------------------- 
+ * ## personal image
+ * ------------------------------------------------------------------- */
+
+.image-circle {
+    border-radius: 150px 150px 150px 0;
+    -moz-border-radius: 150px 150px 150px 0;
+    -webkit-border-radius: 150px 150px 150px 0;
+    border: 0px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    width: 250px;
+    height: auto;
+}
+
 
 /* ------------------------------------------------------------------- 
  * ## tables
