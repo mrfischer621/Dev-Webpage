@@ -1464,8 +1464,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     margin: 0;
     padding: 0;
-    left: 40px;
-    top: 50%;
+    left: 50px;
+    top: 90%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -1474,11 +1474,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .header-logo a {
     display: block;
-    margin: 40px 0 0 0;
+    margin: 50px 0 0 0;
     padding: 0;
     outline: 0;
     border: none;
-    width: 200px;
+    width: 300px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -2754,7 +2754,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-clients {
-    padding-top: 16.2rem;
+    padding-top: 12rem;
     padding-bottom: 16.8rem;
     background-color: #e6e6e6;
     color: #757575;
