@@ -74,7 +74,7 @@ html, body {
 }
 
 body {
-    background: #111111;
+    background: #151515;
     font-family: "montserrat-light", serif;
     font-size: 1.7rem;
     font-style: normal;
@@ -813,7 +813,7 @@ input[type="button"] {
     line-height: calc(5.4rem - .4rem);
     padding: 0 3rem;
     margin: 0 .3rem 1.2rem 0;
-    color: #000000;
+    color: #151515;
     text-decoration: none;
     text-align: center;
     white-space: nowrap;
@@ -1488,7 +1488,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## main navigation 
  * ------------------------------------------------------------------- */
 .header-nav {
-    background: #0C0C0C;
+    background: #151515;
     color: rgba(255, 255, 255, 0.25);
     font-family: "montserrat-light", sans-serif;
     font-size: 1.3rem;
@@ -1593,7 +1593,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     height: 30px;
     width: 30px;
     border-radius: 3px;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: #151515;
     position: absolute;
     top: 36px;
     right: 30px;
@@ -1674,11 +1674,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header-menu-toggle.opaque {
-    background-color: #000000;
+    background-color: #151515;
 }
 
 .header-menu-toggle.opaque .header-menu-text {
-    background-color: #000000;
+    background-color: #151515;
 }
 
 .header-menu-toggle:hover, .header-menu-toggle:focus {
@@ -1854,7 +1854,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__buttons .btn:hover, 
 .home-content__buttons .btn:focus {
     background: #FFFFFF !important;
-    color: #000000;
+    color: #151515;
 }
 
 .home-content__scroll {
@@ -2517,7 +2517,7 @@ html.no-csstransitions .home-content__main {
 
 .s-works .intro-wrap {
     padding: 15rem 0 25.2rem;
-    background: #252323;
+    background: #151515;
 }
 
 .works-content {
@@ -2956,11 +2956,11 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-    background-color: #151515;
-    background-image: url("../images/contact-bg.jpg");
+    background-color: #111111;
+    background-image: url("/glint-master/images/mountain-bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
-    padding-top: 15rem;
+    padding-top: 12rem;
     padding-bottom: 12rem;
     color: rgba(255, 255, 255, 0.5);
     position: relative;
@@ -3025,7 +3025,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-content {
     max-width: 1000px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: #151515;
     color: rgba(255, 255, 255, 0.4);
     padding-top: 6rem;
     padding-bottom: 6rem;
@@ -3502,7 +3502,7 @@ footer .row {
     content: "|";
     display: inline-block;
     padding: 0 1rem 0 1.2rem;
-    color: rgba(255, 255, 255, 0.05);
+    color: #151515;
 }
 
 .footer-bottom .copyright span:last-child::after {
@@ -3529,7 +3529,7 @@ footer .row {
     width: 60px;
     line-height: 60px;
     text-align: center;
-    background: black;
+    background: #151515;
     color: rgba(255, 255, 255, 0.5);
     text-align: center;
     text-transform: uppercase;
