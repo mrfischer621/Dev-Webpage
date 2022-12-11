@@ -2105,6 +2105,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 800px) {
     .home-content h3 {
         font-size: 1.5rem;
+        margin-top: 5;
     }
     .home-content h1 {
         font-size: 4rem;
