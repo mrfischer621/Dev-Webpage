@@ -55,7 +55,7 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
     ================================================== -->
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body id="top">
@@ -69,7 +69,16 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
                 <img src="images/logo.png" alt="Homepage">
             </a>
         </div>
-
+		<div class="custom-dropdown">
+			<div class="dhead" onclick="opend();">
+				<div class="activeitem" id="">DE</div>
+				<div class="darrow"><i class="fa fa-angle-down"></i></div>
+			</div>
+			<div class="listitems">
+				<a class="singlelistitem" href="en/index.html">EN</a>
+			
+			</div>	
+		</div>
         <nav class="header-nav">
 
             <a href="#0" class="header-nav__close" title="close"><span>Close</span></a>
@@ -99,8 +108,9 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
             </div> <!-- end header-nav__content -->
 
         </nav>  <!-- end header-nav -->
-
+		
         <a class="header-menu-toggle" href="#0">
+			
             <span class="header-menu-text">Menu</span>
             <span class="header-menu-icon"></span>
         </a>

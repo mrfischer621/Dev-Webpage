@@ -50,14 +50,17 @@
     var clMenuOnScrolldown = function() {
         
         var menuTrigger = $('.header-menu-toggle');
+        var lang = $('.custom-dropdown');
 
         $WIN.on('scroll', function() {
 
             if ($WIN.scrollTop() > 150) {
                 menuTrigger.addClass('opaque');
+                lang.addClass('fixlang');
             }
             else {
                 menuTrigger.removeClass('opaque');
+                lang.removeClass('fixlang');
             }
 
         });
@@ -464,3 +467,20 @@
         
         
 })(jQuery);
+
+
+jQuery( document ).ready(function() {
+	jQuery(".singlelistitem").on('click', function(event){
+		var ctext = jQuery('.activeitem').text();
+		var makeactive = jQuery(this).text();
+		
+		jQuery('.activeitem').text(makeactive);
+		jQuery(this).text(ctext);
+		
+		jQuery('.listitems').hide();
+		
+	});
+});
+function opend(){
+	jQuery('.listitems').toggle();
+}
