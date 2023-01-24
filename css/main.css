@@ -3647,13 +3647,13 @@ footer .row {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-	color:white;
+	color:#62b5e5;
 }
 .dhead:hover .activeitem{
-	color:#62b5e5
+	color:white
 }
 .dhead:hover .fa-angle-down{
-	color:#62b5e5
+	color:white
 }
 .darrow .fa{
     color: white;
@@ -3664,11 +3664,12 @@ footer .row {
     display: none;
     position: absolute;
     background-color: white;
+    opacity: 1;
     z-index: 999;
     width: 100%;
     left: 0;
     right: 0;
-    top: 39px;
+    top: 45px;
     width: 61px;
     margin: 0px auto;
 }
@@ -3686,7 +3687,7 @@ footer .row {
 	margin-right: 12px;
 }
 .singlelistitem{
-	color: black;
+	color: #151515;
     line-height: 42px;
     font-size: 1.3rem;
     font-weight: 100 !important;
@@ -3696,7 +3697,7 @@ footer .row {
 .fixlang{
     position: fixed;
     top: 45px;
-	background-color: black;
+	background-color: #151515;
     padding: 0px 12px;
     margin-right: 3px;
     line-height: 42px;
